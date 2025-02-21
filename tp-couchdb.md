@@ -202,4 +202,4 @@ Grâce à **MapReduce**, CouchDB permet d'effectuer des agrégations complexes e
 ## 6. Ressources Complémentaires
 - **Documentation officielle** : [https://docs.couchdb.org/](https://docs.couchdb.org/)
 - **CouchDB en 10 minutes** : [https://guide.couchdb.org](https://guide.couchdb.org)
-- **Interface Fauxton** : [http://localhost:5984/_utils](http://localhost:5984/_utils)
+
